@@ -9,13 +9,10 @@
 // import Heading from "@/components/Heading.vue";
 
 export default {
- data(){
-   return {}
- }
+  data() {
+    return {};
+  }
 };
 </script>
 
-<style scoped>
-
-
-</style>
+<style scoped></style>

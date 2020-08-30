@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div id="nav">
-      <img alt="Vue logo" src="./assets/logo.png"/>
+      <img alt="Vue logo" src="./assets/logo.png" />
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> |
       <router-link to="/register">Register</router-link>
@@ -22,8 +22,8 @@
 
 #nav {
   padding: 30px;
-  display:flex;
-  justify-content:space-around;
+  display: flex;
+  justify-content: space-around;
 }
 
 #nav a {
@@ -33,9 +33,8 @@
 
 #nav a.router-link-exact-active {
   color: #42b983;
-  
 }
-img{
+img {
   height: 100px;
   width: 100px;
 }
