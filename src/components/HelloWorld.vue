@@ -28,7 +28,7 @@ h3 {
 ul {
   list-style-type: bottom;
 }
-  li {
+li {
   display: inline-block;
   margin: 0 10px;
 }
@@ -36,6 +36,6 @@ a {
   color: #230968;
   font-weight: 600;
   font-size: 1.1em;
-  font-style:italic;
+  font-style: italic;
 }
 </style>

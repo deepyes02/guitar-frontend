@@ -1,10 +1,10 @@
-import api from './api';
+import api from "./api";
 
 export default {
-    register(credentials){
-        return api().post('register', credentials)
-    }
-}
+  register(credentials) {
+    return api().post("register", credentials);
+  }
+};
 
 // authenticationService.register({
 //     email: 'deepyes@outlook.com',
